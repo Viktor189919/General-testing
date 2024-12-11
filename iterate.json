@@ -1,0 +1,20 @@
+[{
+    "monday": {
+        "mainTask": "merge",
+        "secondaryTask": "walk",
+        "learn": "http"
+    },
+    
+    "tuesday": {
+        "mainTask": "swim",
+        "secondaryTask": "trust",
+        "learn": "death"
+    }
+},
+
+    {
+        "key": "value"
+    }
+
+
+]
